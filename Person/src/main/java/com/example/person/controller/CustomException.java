@@ -1,4 +1,4 @@
-package com.example.springdemo.controller;
+package com.example.person.controller;
 
 import lombok.Getter;
 

@@ -1,7 +1,7 @@
-package com.example.springdemo.advice;
+package com.example.person.advice;
 
-import com.example.springdemo.controller.CustomException;
-import com.example.springdemo.response.ErrorResponse;
+import com.example.person.controller.CustomException;
+import com.example.person.response.ErrorResponse;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.ControllerAdvice;

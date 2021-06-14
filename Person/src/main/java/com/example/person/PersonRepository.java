@@ -1,6 +1,6 @@
-package com.example.springdemo;
+package com.example.person;
 
-import com.example.springdemo.entity.Person;
+import com.example.person.entity.Person;
 import org.springframework.stereotype.Repository;
 
 import java.util.HashMap;

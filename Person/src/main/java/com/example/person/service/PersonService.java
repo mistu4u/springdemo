@@ -1,6 +1,6 @@
-package com.example.springdemo.service;
+package com.example.person.service;
 
-import com.example.springdemo.entity.Person;
+import com.example.person.entity.Person;
 
 import java.util.Optional;
 

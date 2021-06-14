@@ -1,4 +1,4 @@
-package com.example.springdemo.entity;
+package com.example.person.entity;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

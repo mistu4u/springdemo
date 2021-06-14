@@ -1,4 +1,4 @@
-package com.example.springdemo.response;
+package com.example.person.response;
 
 import lombok.Builder;
 import lombok.Getter;
