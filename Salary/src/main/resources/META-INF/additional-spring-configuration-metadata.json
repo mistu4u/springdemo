@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "active.profile",
+      "type": "java.lang.String",
+      "description": "Description for active.profile."
+  }
+] }
