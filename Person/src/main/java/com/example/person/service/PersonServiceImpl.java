@@ -1,6 +1,6 @@
 package com.example.person.service;
 
-import com.example.person.PersonRepository;
+import com.example.person.repository.PersonRepository;
 import com.example.person.entity.Person;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Qualifier;
