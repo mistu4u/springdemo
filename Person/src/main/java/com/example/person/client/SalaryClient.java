@@ -8,5 +8,5 @@ import org.springframework.web.bind.annotation.PathVariable;
 @FeignClient(name = "salary-client", url = "http://localhost:8085/api/v1/salary/")
 public interface SalaryClient {
     @GetMapping(value = "{id}")
-    public Salary getSalaryById(@PathVariable int id);
+    Salary getSalaryById(@PathVariable int id);
 }
